@@ -12,4 +12,4 @@ def get_numbers_ticket(min, max, quantity):
 
 
 lottery_numbers = get_numbers_ticket(10, 1001, 11)
-print(f"Ваші лотерейні числа: {lottery_numbers}")
+print(f"Ваші лотерейні числа: {lottery_numbers}") 
