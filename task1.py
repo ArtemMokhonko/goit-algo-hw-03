@@ -11,8 +11,8 @@ def get_days_from_today(date):
         return  "Wrong data format"
 
 
-res = get_days_from_today("203-12-21")
-print (res)
+res = get_days_from_today("2003-12-21")
+print (f"days = {res}")
 
 
 
